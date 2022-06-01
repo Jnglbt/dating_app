@@ -1,6 +1,6 @@
 # dating_app
 
-A new Flutter project.
+Dating app with Flutter and BLoC.
 
 ## Getting Started
 
